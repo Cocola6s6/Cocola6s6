@@ -1,4 +1,3 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Cocola6s6;+Welcome+to+My+Profile!)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cocola6s6"></img>
 
